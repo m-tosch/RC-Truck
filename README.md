@@ -17,11 +17,11 @@ The original truck was taken apart and augmented with sensors (camera, IR proxim
 </p>
 2. Identify the motor transistors for steering and gas
 <p align="center">
-	<img src="img/truck_board.jpg" width="350">
+	<img src="img/truck_board.JPG" width="350">
 </p>
 3. Solder connection to the existing board
 <p align="center">
-	<img src="img/board_bottom.jpg" width="250">
+	<img src="img/board_bottom.JPG" width="250">
 </p>
 4. Connect to RaspberryPi via breadboard
 <p align="center">
