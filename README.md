@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 # RC-Truck
 
 A remote toy truck extended with sensors and smartphone control
@@ -15,7 +13,7 @@ The original truck was taken apart and augmented with sensors (camera, IR proxim
 ## Work progress
 ## 1. Take apart the truck
 <p align="center">
-	<img src="img/img1.jpg" width="410">
+	<img src="img/truck_start.jpg" width="410">
 </p>
 
 ## 2. Identify the motor transistors for steering and gas
@@ -35,7 +33,7 @@ The original truck was taken apart and augmented with sensors (camera, IR proxim
 
 ## 5. Add distance sensors and more
 <p align="center">
-	<img src="img/DSC00840.JPG" width="300">
+	<img src="img/bottom_sensors.JPG" width="300">
 </p>
 
 ## 6. Put it all together
@@ -50,6 +48,5 @@ The original truck was taken apart and augmented with sensors (camera, IR proxim
 
 ## 8. All done!
 <p align="center">
-	<img src="img/img2.JPG" width="500">
+	<img src="img/truck_front.JPG" width="500">
 </p>
->>>>>>> README
