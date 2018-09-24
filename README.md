@@ -21,7 +21,7 @@ The original truck was taken apart and augmented with sensors (camera, IR proxim
 </p>
 3. Solder connection to the existing board
 <p align="center">
-	<img src="img/board_bottom.JPG" width="250">
+	<img src="img/board_bottom.JPG" width="350">
 </p>
 4. Connect to RaspberryPi via breadboard
 <p align="center">
@@ -29,11 +29,11 @@ The original truck was taken apart and augmented with sensors (camera, IR proxim
 </p>
 5. Add distance sensors and more
 <p align="center">
-	<img src="img/DSC00840.JPG" width="350">
+	<img src="img/DSC00840.JPG" width="300">
 </p>
 6. Put it all together
 <p align="center">
-	<img src="img/truck_back.jpg" width="500">
+	<img src="img/truck_back.JPG" width="500">
 </p>
 7. Write Android app
 <p align="center">
