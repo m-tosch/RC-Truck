@@ -33,7 +33,7 @@ The original truck was taken apart and augmented with sensors (camera, IR proxim
 
 ## 5. Add distance sensors and more
 <p align="center">
-	<img src="img/bottom_sensors.JPG" width="300">
+	<img src="img/bottom_sensors.jpg" width="300">
 </p>
 
 ## 6. Put it all together
@@ -48,5 +48,5 @@ The original truck was taken apart and augmented with sensors (camera, IR proxim
 
 ## 8. All done!
 <p align="center">
-	<img src="img/truck_front.JPG" width="500">
+	<img src="img/truck_front.jpg" width="500">
 </p>
