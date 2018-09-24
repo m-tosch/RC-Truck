@@ -17,7 +17,7 @@ The original truck was taken apart and augmented with sensors (camera, IR proxim
 </p>
 2. Identify the motor transistors for steering and gas
 <p align="center">
-	<img src="img/truck_board.jpg" width="500">
+	<img src="img/truck_board.jpg" width="350">
 </p>
 3. Solder connection to the existing board
 <p align="center">
@@ -29,7 +29,7 @@ The original truck was taken apart and augmented with sensors (camera, IR proxim
 </p>
 5. Add distance sensors and more
 <p align="center">
-	<img src="img/DSC00840.JPG" width="500">
+	<img src="img/DSC00840.JPG" width="350">
 </p>
 6. Put it all together
 <p align="center">
