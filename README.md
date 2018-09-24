@@ -13,7 +13,7 @@ The original truck was taken apart and augmented with sensors (camera, IR proxim
 ## Work progress
 ## 1. Take apart the truck
 <p align="center">
-	<img src="img/img1.jpg" width="500">
+	<img src="img/img1.jpg" width="410">
 </p>
 
 ## 2. Identify the motor transistors for steering and gas
